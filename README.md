@@ -5,6 +5,7 @@ A powerful multimodal system that **scrapes the web** to answer complex user que
 
 ---
 
+
 ## 🧠 Example Query
 
 > **"Show me how to do a deadlift"**
